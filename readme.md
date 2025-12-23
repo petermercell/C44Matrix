@@ -16,9 +16,9 @@ Originally created by [Ivan Busquets](https://www.nukepedia.com/tools/plugins/co
 
 | Platform | Nuke Version |
 |----------|--------------|
-| Windows  | 8.0+         |
-| Linux    | 8.0+         |
-| macOS    | 8.0+         |
+| Windows  | 14.1+         |
+| Linux    | 14.1+         |
+| macOS    | 15.0+         |
 
 Pre-built binaries available in `COMPILED/`
 
